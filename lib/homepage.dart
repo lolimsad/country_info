@@ -28,7 +28,7 @@ class _homeState extends State<home> {
         child: Container(
 
           margin: EdgeInsets.only(left: 40, right: 40,
-              top: 30, bottom: 100),
+              top: 30, bottom: 30),
 
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
